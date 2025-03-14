@@ -1,5 +1,6 @@
 # LLM ENGINEERING: MASTER AI, LARGE LANGUAGE MODELS & AGENTS
 
+![certified-llm-engineer](https://github.com/NickBwalley-LLM-Engineenring-Course-Completion-UC-8a188510-a911-4d0d-a5a6-e51a89f3ed02.pdf?raw=true)
 **by Ed Donner and Ligency Team**
 
 _Successfully completed on Monday, March 3, 2025_
