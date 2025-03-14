@@ -2,10 +2,10 @@
 
 ![certified-llm-engineer](https://github.com/NickBwalley/LLM-ENGINEERING-CERTIFICATE/blob/master/LLM_Engineering-Course-Completion-UC-8a188510-a911-4d0d-a5a6-e51a89f3ed02.jpg?raw=true)
 
-_I am happy to announce that I have Successfully Completed this Course on **Monday, March 3, 2025**_
+_CERTIFICATE DATED:**Monday, March 3, 2025**_
 
 ---
-## Here are some of the things that I covered in this course.
+## Below are the highlights of some of the Important Concepts I covered in this course.
 ## Table of Contents
 
 - [Overview](#overview)
