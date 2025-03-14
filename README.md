@@ -2,7 +2,7 @@
 
 ![certified-llm-engineer](https://github.com/NickBwalley/LLM-ENGINEERING-CERTIFICATE/blob/master/LLM_Engineering-Course-Completion-UC-8a188510-a911-4d0d-a5a6-e51a89f3ed02.jpg?raw=true)
 
-_CERTIFICATE DATED:**Monday, March 3, 2025**_
+_CERTIFICATE DATED : **Monday, March 3, 2025**_
 
 ---
 ## Below are the highlights of some of the Important Concepts I covered in this course.
@@ -20,7 +20,9 @@ _CERTIFICATE DATED:**Monday, March 3, 2025**_
 
 ## Overview
 
-I am thrilled to have completed the **LLM Engineering: Master AI, Large Language Models & Agents** course. This immersive 8-week program took me on a deep dive into the world of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), fine-tuning, and AI-driven applications.
+- I am thrilled to annouce that I have completed the _**LLM Engineering: Master AI, Large Language Models & Agents**_ course. 
+- This immersive 8-week program took me on a deep dive into the world of Large Language Models (LLMs) and get to learn some of the important concepts like:
+- Retrieval-Augmented Generation (RAG), fine-tuning, AI-driven applications amongs't others below is a breakdown of what I covered in the course. 
 
 ---
 
@@ -28,11 +30,11 @@ I am thrilled to have completed the **LLM Engineering: Master AI, Large Language
 
 ### Week 1: Fundamentals of LLMs
 
-- Explored core concepts and effective utilization of large language models.
+- I Explored core concepts and effective utilization of large language models.
 
 ### Week 2: Gradio UI Framework & Agentization
 
-- Delved into the Gradio UI Framework, multi-modality, and working with frontier models.
+- Delved into the ubiquitous Gradio UI Framework, multi-modality, and working with frontier models.
 
 ### Week 3: Open Source Models on Hugging Face
 
@@ -40,7 +42,7 @@ I am thrilled to have completed the **LLM Engineering: Master AI, Large Language
 
 ### Week 4: LLM Selection & Benchmarks
 
-- Learned to select the right LLMs for different tasks using leaderboards and benchmarking techniques.
+- Learned to select the right LLMs for different tasks using the llm-leaderboards and discovered different benchmarking techniques like MMLU.
 
 ### Week 5: Retrieval-Augmented Generation (RAG)
 
